@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Momma ain't raised no two trip b****"
 Use the left arrow to go back!
